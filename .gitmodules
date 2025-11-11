@@ -10,3 +10,6 @@
 [submodule "HeatGun8018"]
 	path = HeatGun8018
 	url = https://github.com/BerranRemzi/HeatGun8018
+[submodule "Arduino-Multi-Robot"]
+	path = Arduino-Multi-Robot
+	url = https://github.com/BerranRemzi/Arduino-Multi-Robot

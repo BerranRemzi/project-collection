@@ -1,15 +1,20 @@
 [submodule "esp-now-serial-bridge"]
 	path = esp-now-serial-bridge
 	url = https://github.com/BerranRemzi/esp-now-serial-bridge
+	branch = main
 [submodule "jerry-314"]
 	path = jerry-314
 	url = https://github.com/BerranRemzi/jerry-314
+	branch = main
 [submodule "HomeSecurity"]
 	path = HomeSecurity
 	url = https://github.com/BerranRemzi/HomeSecurity
+	branch = main
 [submodule "HeatGun8018"]
 	path = HeatGun8018
 	url = https://github.com/BerranRemzi/HeatGun8018
+	branch = main
 [submodule "Arduino-Multi-Robot"]
 	path = Arduino-Multi-Robot
 	url = https://github.com/BerranRemzi/Arduino-Multi-Robot
+	branch = main
